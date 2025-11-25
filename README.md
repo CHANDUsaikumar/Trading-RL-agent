@@ -117,4 +117,3 @@ for i,s in enumerate(seeds, start=1):
 PY
 ```
 
-If you want me to update the README further (add plots previews, CI instructions, or a short results table), tell me what to include and I'll update it.
